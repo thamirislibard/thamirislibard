@@ -1,8 +1,5 @@
 ### Hey! I'm Thamiris Libard 🤗
 
-- 🛰 I’m currently working on a project of Electromagnetic Propulsion Software Development, that simulates the plasma dynamics in the Hall Thruster, using the C and C++ programming languages.
-##
-
  <div align="center">
   <a href="https://github.com/thamirislibard">
   <!-- <img height="130em" src="https://github-readme-stats.vercel.app/api?username=thamirislibard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
