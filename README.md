@@ -8,7 +8,7 @@ Brazilian National Point of Contact (NPoC) for **SGAC**;<br>
 
 - ⚙️ I use daily: `.py` (ArcPy, Pandas), `.m` (MATLAB), `.tex` (LaTeX), `C/C++`, `.html`, `.css`.
 - 🌍 I'm mostly active within the **Space Generation Advisory Council** and aerospace communities.
-- 🛰️ Currently focused on: Micro-propulsion systems (PPT), GIS workflow automation, and my Undergraduate Thesis.
+- 🛰️ Currently focused on: Electric micro-propulsion systems, GIS workflow automation, and my Undergraduate Thesis.
 - 💬 `ping` me about **aerospace**, **geoprocessing**, **python automation**, or **space events**.
 
 <br>
