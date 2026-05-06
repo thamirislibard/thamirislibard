@@ -4,7 +4,7 @@
 
 Graduating Aerospace Engineering Student at **University of Brasília (UnB)**;<br>
 Geoprocessing & Automation Intern at **ANEEL**;<br>
-National Point of Contact (NPoC) for **SGAC**;<br>
+Brazilian National Point of Contact (NPoC) for **SGAC**;<br>
 
 - ⚙️ I use daily: `.py` (ArcPy, Pandas), `.m` (MATLAB), `.tex` (LaTeX), `C/C++`, `.html`, `.css`.
 - 🌍 I'm mostly active within the **Space Generation Advisory Council** and aerospace communities.
